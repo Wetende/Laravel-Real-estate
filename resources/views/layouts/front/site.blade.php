@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Edmaks - Real Estate </title>
+    <title>XERO - Real Estate HTML Template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <!-- External CSS libraries -->
-    
     <link type="text/css" rel="stylesheet" href="{{asset('assets/front/css/bootstrap.min.css')}}">
     <link type="text/css" rel="stylesheet" href="{{asset('assets/front/css/magnific-popup.css')}}">
     <link type="text/css" rel="stylesheet" href="{{asset('assets/front/css/jquery.selectBox.css')}}">
@@ -20,7 +19,6 @@
     <link type="text/css" rel="stylesheet" href="{{asset('assets/front/fonts/font-awesome/css/font-awesome.min.css')}}">
     <link type="text/css" rel="stylesheet" href="{{asset('assets/front/fonts/flaticon/font/flaticon.css')}}">
 
-
     <!-- Favicon icon -->
     <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon" >
 
@@ -28,42 +26,34 @@
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800%7CPlayfair+Display:400,700%7CRoboto:100,300,400,400i,500,700">
 
     <!-- Custom Stylesheet -->
-    <link type="text/css" rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" type="text/css" id="style_sheet" href="assets/css/skins/default.css">
+    <link type="text/css" rel="stylesheet" href="{{asset('assets/front/css/style.css')}}">
+    <link rel="stylesheet" type="text/css" id="style_sheet" href="{{asset('assets/front/css/skins/default.css')}}">
 
 </head>
 <body id="top" class="index-body">
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDTWJ3Z"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<div class="page_loader"></div>
+
 
 <!-- Top header start -->
- @inludes('front.includes.top-header')
+@include('front.includes.top-header')
 <!-- Top header end -->
 
 <!-- main header start -->
-@inludes('front.includes.main-header')
+@include('front.includes.main-header')
 <!-- main header end -->
 
 <!-- Banner start -->
-@inludes('front.includes.banner')
+@include('front.includes.banner')
 <!-- banner end -->
 
-<!-- Content start-->
-@yield('content')
-<!-- Content end-->
+
+<!-- content start -->  
+    @yield('content')
+<!-- content end -->
+
 
 <!-- Footer start -->
-@inludes('front.includes.footer')
+@include('front.includes.footer')
 <!-- Footer end -->
-
-<!-- Full Page Search -->
-
-
-
-
 
 
 <!-- External JS libraries -->

@@ -55,6 +55,33 @@ return [
             'visibility' => 'public',
         ],
 
+        'cities' => [
+            'driver' => 'local',
+            'root' => public_path('assets/admin/images/cities'),
+            'url' => env('APP_URL').'/public',
+            'visibility' => 'public',
+        ],
+
+        'properties' => [
+            'driver' => 'local',
+            'root' => public_path('assets/admin/images/properties'),
+            'url' => env('APP_URL').'/public',
+            'visibility' => 'public',
+        ],
+
+        'sliders' => [
+            'driver' => 'local',
+            'root' => public_path('assets/admin/images/sliders'),
+            'url' => env('APP_URL').'/public',
+            'visibility' => 'public',
+        ],
+    
+
+   
+
+        
+        
+
         's3' => [
             'driver' => 's3',
             'key' => env('AWS_ACCESS_KEY_ID'),

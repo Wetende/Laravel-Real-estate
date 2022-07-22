@@ -11,12 +11,18 @@
             </div>
             <div class="col-lg-3 col-md-3 col-sm-5">
                 <ul class="top-social-media pull-right">
+                @guest()
                     <li>
-                        <a href="login.html" class="sign-in"><i class="fa fa-sign-in"></i> Login </a>
+                  
+                        <a href="{{route('login')}}" class="sign-in"><i class="fa fa-sign-in"></i> Login </a>
+                       
                     </li>
+                   
                     <li>
-                        <a href="login.html" class="sign-in"><i class="fa fa-user"></i> Register</a>
+                        <a href="{{route('register')}}" class="sign-in"><i class="fa fa-user"></i> Register</a>
                     </li>
+  
+                    @endguest
                 </ul>
             </div>
         </div>
