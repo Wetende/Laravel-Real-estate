@@ -7,19 +7,19 @@
                     <h4>Contact Us</h4>
                     <ul class="contact-info">
                         <li>
-                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>20/F Green Road, Dhanmondi, Dhaka
+                            <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i>Nairobi
                         </li>
                         <li>
-                            <i class="fa fa-envelope"></i><a href="mailto:sales@hotelempire.com">info@themevessel.com</a>
+                            <i class="fa fa-envelope"></i><a href="mailto:sales@edmaks.com">cyprianwetende@gmail.com.com</a>
                         </li>
                         <li>
-                            <i class="fa fa-phone"></i><a href="tel:+55-417-634-7071">+0477 85X6 552</a>
+                            <i class="fa fa-phone"></i><a href="tel:0713906025">0713906025</a>
                         </li>
                         <li>
-                            <i class="fa fa-fax"></i>+0487 85X6 224
+                            <i class="fa fa-fax"></i>0713906025
                         </li>
                         <li>
-                            <i class="fa fa-skype"></i><a href="mailto:info@green.com">info@green.com</a>
+                            <i class="fa fa-skype"></i><a href="mailto:cyprianwetende@gmail.com">cyprianwetende@gmail.com</a>
                         </li>
                     </ul>
                 </div>
@@ -65,7 +65,7 @@
                             <h5>
                                 <a href="properties-details.html">Beautiful Single Home</a>
                             </h5>
-                            <p>Feb 27, 2020 | $1045,000</p>
+                            <p>Feb 27, 2022 | $1045,000</p>
                         </div>
                     </div>
                     <div class="media mb-4">
@@ -76,7 +76,7 @@
                             <h5>
                                 <a href="properties-details.html">Sweet Family Home</a>
                             </h5>
-                            <p>Mar 14, 2020 | $944,000</p>
+                            <p>Mar 14, 2022 | $944,000</p>
                         </div>
                     </div>
                     <div class="media">
@@ -85,9 +85,9 @@
                         </a>
                         <div class="media-body align-self-center">
                             <h5>
-                                <a href="properties-details.html">Real Luxury Villa</a>
+                                <a href="properties-details.html">Real Edmaks villa</a>
                             </h5>
-                            <p>Apr 14, 2020 | $1420,000</p>
+                            <p>Apr 14, 2022 | $1420,000</p>
                         </div>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-md-12">
-                    <p class="copy">© 2018 <a href="#">Theme Vessel.</a> Trademarks and brands are the property of their respective owners.</p>
+                    <p class="copy">© 2022 <a href="#">Edmaks.</a> Trademarks and brands are the property of their respective owners.</p>
                 </div>
                 <div class="col-lg-4 col-md-12">
                     <ul class="social-list clearfix">
@@ -150,7 +150,7 @@
                     Find Your Dream Properties
                 </h5>
                 <p>
-                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i> 123 Kathal St. Tampa City,
+                    <i class="flaticon-facebook-placeholder-for-locate-places-on-maps"></i> Nairobi,
                 </p>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
@@ -214,7 +214,7 @@
                                     <dt>Condition</dt>
                                     <dd>New</dd>
                                     <dt>Year</dt>
-                                    <dd>2018</dd>
+                                    <dd>2021</dd>
                                     <dt>Price</dt>
                                     <dd>$178,000</dd>
                                 </dl>
