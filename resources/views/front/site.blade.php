@@ -160,7 +160,7 @@
                     <div class="detail">
                         <div class="heading">
                             <h3>
-                                <a href="properties-details.html">Real Luxury Villa</a>
+                                <a href="properties-details.html">Real Luxury</a>
                             </h3>
                             <div class="location">
                                 <a href="properties-details.html">
@@ -345,7 +345,7 @@
                         </ul>
                     </div>
                     <div class="agent-details">
-                        <h5><a href="agent-detail.html">John Pitarshon</a></h5>
+                        <h5><a href="agent-detail.html">Ian Odhiambo</a></h5>
                         <p>Creative Director</p>
                     </div>
                 </div>
@@ -361,7 +361,7 @@
                         </ul>
                     </div>
                     <div class="agent-details">
-                        <h5><a href="agent-detail.html">Martin Smith</a></h5>
+                        <h5><a href="agent-detail.html">Oras Onyango</a></h5>
                         <p>Web Developer</p>
                     </div>
                 </div>
@@ -377,7 +377,7 @@
                         </ul>
                     </div>
                     <div class="agent-details">
-                        <h5><a href="agent-detail.html">Brandon Miller</a></h5>
+                        <h5><a href="agent-detail.html">Lilian Makokha</a></h5>
                         <p>Office Manager</p>
                     </div>
                 </div>
@@ -393,7 +393,7 @@
                         </ul>
                     </div>
                     <div class="agent-details">
-                        <h5><a href="#">Karen Paran</a></h5>
+                        <h5><a href="#">Evans Nderitu</a></h5>
                         <p>Support Manager</p>
                     </div>
                 </div>
@@ -443,7 +443,7 @@
                                 <img src="http://placehold.it/60x60 " alt="testimonial-4" class="img-fluid">
                             </a>
                             <div class="media-body align-self-center">
-                                <h5>Karen Paran</h5>
+                                <h5>Evans Nderitu</h5>
                                 <h6>Support Manager</h6>
                             </div>
                         </div>
@@ -480,7 +480,7 @@
                             </a>
                             <div class="media-body align-self-center">
                                 <h5>
-                                    John Pitarshon
+                                    Ian Odhiambo
                                 </h5>
                                 <h6>Creative Director</h6>
                             </div>

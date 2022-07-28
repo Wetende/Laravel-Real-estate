@@ -216,7 +216,7 @@
                                     <dt>Year</dt>
                                     <dd>2021</dd>
                                     <dt>Price</dt>
-                                    <dd>$178,000</dd>
+                                    <dd>ksh178,000</dd>
                                 </dl>
                             </section>
                             <a href="properties-details.html" class="btn btn-show btn-theme">Show Detail</a>
